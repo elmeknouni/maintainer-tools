@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # © 2016 Antiun Ingeniería S.L. - Jairo Llopis
-# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
+# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
     "name": "Module name",
     "summary": "Module summary",
@@ -11,6 +11,9 @@
     "license": "AGPL-3",
     "application": False,
     "installable": True,
+    "pre_init_hook": "pre_init_hook",
+    "post_init_hook": "post_init_hook",
+    "uninstall_hook": "uninstall_hook",
     "external_dependencies": {
         "python": [],
         "bin": [],
