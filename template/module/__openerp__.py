@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Copyright 2016 Jairo Llopis <jairo.llopis@tecnativa.com>
-# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
+# License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl).
 {
     "name": "Module name",
     "summary": "Module summary",
@@ -8,7 +8,7 @@
     "category": "Uncategorized",
     "website": "https://tecnativa.com/",
     "author": "Tecnativa, Odoo Community Association (OCA)",
-    "license": "AGPL-3",
+    "license": "LGPL-3",
     "application": False,
     "installable": True,
     "pre_init_hook": "pre_init_hook",
