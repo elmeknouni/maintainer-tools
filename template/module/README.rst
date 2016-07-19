@@ -67,14 +67,14 @@ Contributors
 Maintainer
 ----------
 
-.. image:: https://odoo-community.org/logo.png
-   :alt: Odoo Community Association
-   :target: https://odoo-community.org
+.. image:: https://www.tecnativa.com/logo.png
+   :alt: Tecnativa
+   :target: https://www.tecnativa.com
 
-This module is maintained by the OCA.
+This module is maintained by Tecnativa.
 
-OCA, or the Odoo Community Association, is a nonprofit organization whose
-mission is to support the collaborative development of Odoo features and
-promote its widespread use.
+Tecnativa is an IT consulting company specialized in Odoo and provides Odoo
+development, installation, maintenance and hosting services.
 
-To contribute to this module, please visit https://odoo-community.org.
+To contribute to this module, please visit https://github.com/Tecnativa or
+contact us at info@tecnativa.com.

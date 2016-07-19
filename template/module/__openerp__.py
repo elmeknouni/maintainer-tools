@@ -7,7 +7,7 @@
     "version": "8.0.1.0.0",
     "category": "Uncategorized",
     "website": "https://tecnativa.com/",
-    "author": "Tecnativa, Odoo Community Association (OCA)",
+    "author": "Tecnativa",
     "license": "LGPL-3",
     "application": False,
     "installable": True,
